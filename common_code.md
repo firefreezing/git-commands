@@ -57,3 +57,7 @@ To dos:
 - revert a past commit
 - compare two branches
 - copy items from one branch to another
+
+## Reference:
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
