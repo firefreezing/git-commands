@@ -37,7 +37,9 @@ By default git checkout -b will base the new-branch off the current HEAD.
 -   if not include `--set-upstream`, then no auto-tracking relation
 -   if `local-branch-name:remote-branch-name` becomes `branch-name`, then local branch and remote branch share the same name
 
+### Merge a branch
 
+`git merge branch-name-to-merge-from`
 
 ### Delete a remote branch
 
